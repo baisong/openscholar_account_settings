@@ -20,5 +20,4 @@ This login can be used only once. After logging in, you will be redirected to !u
 
 We hope you will enjoy your new web site.
 
-Sincerely,
-The !sitewide_name Team
+Sincerely,<br/>The !sitewide_name Team
