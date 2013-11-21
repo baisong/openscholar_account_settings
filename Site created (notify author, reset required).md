@@ -8,7 +8,7 @@ Hi !username,
 
 Your new web site at !sitewide_name has been activated.
 
-Your web site url is !site_url\n\n
+Your web site url is !site_url
 
 You may now log in and reset your password by clicking on this link or copying and pasting it in your browser: 
 
