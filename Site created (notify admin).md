@@ -1,5 +1,9 @@
 ### Subject
 
+User !username created a site "!site_name" at !sitewide_name
+
+### Body
+
 Hello,
 
 On !date,<br/>a new site was registered at !sitewide_name.
