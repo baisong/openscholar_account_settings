@@ -14,5 +14,4 @@ You will be able to log into your site at !site_login_uri with username:
 
 We hope you will enjoy your new web site.
 
-Sincerely,
-The !sitewide_name Team
+Sincerely,<br>The !sitewide_name Team
