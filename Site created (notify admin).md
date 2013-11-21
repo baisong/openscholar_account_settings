@@ -2,7 +2,7 @@
 
 Hello,
 
-On !date,\na new site was registered at !sitewide_name.
+On !date,<br/>a new site was registered at !sitewide_name.
 
 Link: !site_login_uri
 
