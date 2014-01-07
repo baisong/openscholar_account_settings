@@ -4,7 +4,9 @@ Contains a snapshot of default email texts from `user` and `vsite` modules in Op
 
 ### Available templates
 
-* Account activation<br/>**Trigger**:<br/>**Summary**:
+* Account activation
+  **Trigger**:
+  **Summary**:
 * Password recovery<br/>**Trigger**: whenever a visitor submits their email or username to the lost password form<br/>**Summary**:
 
 ##### Site created (notify admin)
