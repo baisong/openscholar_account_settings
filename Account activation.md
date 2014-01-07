@@ -17,6 +17,6 @@ This link can only be used once to log in and will lead you to a page where you 
 After setting your password, you will be able to log in at [site:login-url] in the future using:
 
 username: [user:name]
-password: Your password
+<br/>password: Your password
 
 --  [site:name] team
