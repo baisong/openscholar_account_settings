@@ -11,30 +11,30 @@ Contains a snapshot of default email texts from `user` and `vsite` modules in Op
   <br/>**Trigger**: whenever a visitor submits their email or username to the lost password form
   <br/>**Summary**:
 
-##### Site created (notify admin)
+* Site created (notify admin)
 **Trigger**: whenever a site is created.
 **Summary**:
 
-##### Site created (notify author, no reset required)
+* Site created (notify author, no reset required)
 **Trigger**: whenever a site is created.
 **Summary**:
 
-##### Site created (notify author, reset required)
+* Site created (notify author, reset required)
 **Trigger**: whenever a site is created.
 **Summary**:
 
-##### Welcome (no approval required)
+* Welcome (no approval required)
 **Trigger**: whenever a new user account is registered to a new email address
 **Summary**:
 
 ### Unavailable templates
 
-##### Welcome (awating approval)
+* Welcome (awating approval)
 **Trigger**:
 
-##### Welcome (new user created by an administrator)
+* Welcome (new user created by an administrator)
 **Trigger**:
 
-##### Account cancellation confirmation
-**Trigger**:
+* Account cancellation confirmation
+  <br/>**Trigger**:
 
