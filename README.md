@@ -30,7 +30,7 @@ Contains a snapshot of default email texts from `user` and `vsite` modules in Op
 <br/>**Trigger**: When a super administrator cancels a user account with confirmation (i.e. if a user wants their own user account deleted)
 
 * Welcome (new user created by an administrator)
-<br/>**Trigger**: When a new user account is created by a super administrator (i.e. non-harvard affiliated special user)
+<br/>**Trigger**: When a new user account is created by a super administrator (i.e. for a non-harvard affiliated special user)
 
 ### Unavailable templates
 
