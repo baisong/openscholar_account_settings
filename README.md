@@ -12,28 +12,28 @@ Contains a snapshot of default email texts from `user` and `vsite` modules in Op
   <br/>**Summary**:
 
 * Site created (notify admin)
-**Trigger**: whenever a site is created.
-**Summary**:
+<br/>**Trigger**: whenever a site is created.
+<br/>**Summary**:
 
 * Site created (notify author, no reset required)
-**Trigger**: whenever a site is created.
-**Summary**:
+<br/>**Trigger**: whenever a site is created.
+<br/>**Summary**:
 
 * Site created (notify author, reset required)
-**Trigger**: whenever a site is created.
-**Summary**:
+<br/>**Trigger**: whenever a site is created.
+<br/>**Summary**:
 
 * Welcome (no approval required)
-**Trigger**: whenever a new user account is registered to a new email address
-**Summary**:
+<br/>**Trigger**: whenever a new user account is registered to a new email address
+<br/>**Summary**:
 
 ### Unavailable templates
 
 * Welcome (awating approval)
-**Trigger**:
+<br/>**Trigger**:
 
 * Welcome (new user created by an administrator)
-**Trigger**:
+<br/>**Trigger**:
 
 * Account cancellation confirmation
   <br/>**Trigger**:
