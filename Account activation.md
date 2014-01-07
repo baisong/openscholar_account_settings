@@ -1,6 +1,6 @@
 ### Subject
 
-Account details for [user:name] at [site:name] (approved)
+Account details for [user:name] at [site:name] \(approved\)
 
 ### Body
 
